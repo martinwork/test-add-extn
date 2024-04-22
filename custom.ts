@@ -10,6 +10,6 @@ namespace custom {
      */
     //% block
     export function add(value: number): number {
-        return value + 1;
+        return value + 3;
     }
 }
